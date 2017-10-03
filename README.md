@@ -1,1 +1,1 @@
-Implementation Global Alighment with wright matrices
+Implementation Local Alignment
